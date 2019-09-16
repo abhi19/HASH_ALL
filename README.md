@@ -1,4 +1,4 @@
-# hash_entire_file_directory
+# HASH_ALL: Store Hashesh of entire file directory
 Takes hashes of the input file directory , check for the same file hashes periodically, and compares them with previously recorded hashes.  Alerts on change
 
 
